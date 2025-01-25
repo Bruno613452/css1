@@ -1,0 +1,204 @@
+
+
+
+
+body {
+    background-image: url(./wall.png);
+    background-color: #8f929b;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    position: absolute;
+    
+}
+
+#soc{
+
+ 
+
+    width: 1200px;
+    height: 700px;
+    border: 50px 50px 50px 50px;
+
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+
+    display: block ;
+}
+
+#ti {
+
+
+    width: 1200px;
+    height: 700px;
+    border: 50px 50px 50px 50px;
+
+
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+
+    display: block ;
+}
+
+
+#med {
+
+   
+
+    width: 1200px;
+    height: 700px;
+    border: 50px 50px 50px 50px;
+
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+
+    display: block;
+}
+
+#dir {
+
+   
+
+    width: 1200px;
+    height: 700px;
+    border: 50px 50px 50px 50px;
+
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+
+    display: block ;
+}
+
+#eng {
+    width: 1200px;
+    height: 700px;
+    border: 50px 50px 50px 50px;
+
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+
+    display: block ;
+}
+
+#cont {
+    width: 1200px;
+    height: 700px;
+    border: 50px 50px 50px 50px;
+
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    float: right;
+    display: block ;
+}
+
+button {
+
+    border-radius: 50px;
+    display: inline-block;
+    background-color: black;
+    font-size: 50px;
+    color: white;
+    width: 300px;
+    height: 100px;
+
+}
+
+ 
+
+li {
+    
+    width: 50px;
+    height: 50px;
+    font-size: 35px;
+    font-style: oblique;
+    
+}
+
+
+div {
+    height: 600px;
+    width: 500px;
+    float: right;
+    display: block;
+    padding: 10px 10px 10px 10px;
+    margin: 5px 5px 5px 5px;
+    background-color: rgb(151, 143, 143);
+    border-color: rgb(151, 143, 143);
+    border: 50px 50px 50px 50px;
+    border-style: solid ;
+    border-width: 15px;
+    border-radius: 50px;
+}
+
+p {
+
+    font-family: Fantasy;
+    font-size:30px;
+    color: black;
+    display: block;
+    
+}
+
+h1 {
+
+    font-family: Fantasy;
+    font-size: 55px;
+    color: black;
+    padding-left: 150px;
+}
+
+input {
+
+    width: 500px;
+    height: 50px;
+    font-family: fantasy;
+    font-size: 30px;
+
+}
+
+label {
+    font-family: fantasy;
+    font-size: 30px;
+}
+
